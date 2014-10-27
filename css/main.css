@@ -86,7 +86,7 @@ body {
 }
 
 .logo {
-    width: 550px;
+    width: 250px;
     margin: 50px auto;
     display: block;
 }
@@ -188,6 +188,13 @@ nav a:hover {
         padding: 10px 50px;
     }
 
+    .logo {
+        width: 350px;
+        margin: 50px auto;
+        display: block;
+    }
+
+
     nav a {
         float: left;
         width: 27%;
@@ -223,6 +230,12 @@ nav a:hover {
         padding: 10px 100px;
     }
 
+    .logo {
+        width: 550px;
+        margin: 50px auto;
+        display: block;
+    }
+
 
 
 /* ============
@@ -253,7 +266,6 @@ nav a:hover {
    =============== */
 
     .wrapper {
-        width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto;
     }
 }
