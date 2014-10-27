@@ -63,13 +63,14 @@ textarea {
    ========================================================================== */
 
 body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    font: 14pt Helvetica, Helvetica Neue, Arial;
     padding: 10px 30px;
     background: #F8F8FF;
 }
 
 .wrapper {
     width: 100%;
+    max-width: 800px;
 }
 
 
@@ -136,6 +137,7 @@ nav a:hover {
 .main article h1 {
     font-size: 2em;
     line-height: 1.3em;
+    text-align: center;
 }
 
 .main aside {
@@ -254,7 +256,6 @@ nav a:hover {
     .main article {
         margin: 0 auto;
         width: 100%;
-        text-align: center;
     }
 
 }
@@ -278,7 +279,7 @@ nav a:hover {
     background-color: transparent;
     border: 0;
     overflow: hidden;
-    *text-indent: -9999px;
+    text-indent: -9999px;
 }
 
 .ir:before {
