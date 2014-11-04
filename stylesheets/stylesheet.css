@@ -56,11 +56,14 @@ body {
   color: #6d6d6d;
 }
 
+/*
+green: #9ff3a1;
+orange : ffa563 */
 a {
-  color: #d5000d;
+  color: #6ba66d;
 }
 a:hover {
-  color: #c5000c;
+  color: #49704b;
 }
 
 header {
@@ -96,6 +99,7 @@ header h2 {
 
 #container .inner img {
   max-width: 100%;
+  height: 100px;
 }
 
 #downloads {
@@ -252,7 +256,7 @@ h2 {
 } 
 
 h3 {
-  color: #d5000d;
+  color: #6ba66d;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
