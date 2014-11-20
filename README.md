@@ -1,4 +1,4 @@
-ng-boba user page
+ng-boba.github.io
 ===========
 
-Public website for ng-boba
+Public website for ngBoba: Angular Dependency Manager.
